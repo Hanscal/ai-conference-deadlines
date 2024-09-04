@@ -1,5 +1,8 @@
 # ai-conference-deadlines
-中国计算机协会和中国人工智能协会推荐人工智能想会议的截止投稿日期：[查询页面](https://www.aihomecaring.com/?conference/)
+中国计算机协会和中国人工智能协会推荐人工智能想会议的截止投稿日期：
+1. [查询页面](https://www.aihomecaring.com/?conference/)
+2. 展示说明
+![ai-conference-dealines-demo.png](assets%2Fai-conference-dealines-demo.png)
 
 ## 贡献会议信息
 
@@ -34,11 +37,6 @@
     note: All submissions must be done through ARR.
   ```
 - 发送一个 pull request 请求
-
-## 页面展示效果
-1. [查询链接](https://www.aihomecaring.com/?conference/)
-2. 展示说明
-![ai-conference-dealines-demo.png](assets%2Fai-conference-dealines-demo.png)
 
 ## 数据清洗说明
 1. 进入程序位置

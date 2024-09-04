@@ -1,5 +1,5 @@
 # ai-conference-deadlines
-项目列出了根据**中国计算机协会**和**中国人工智能协会**推荐的AI会议的截止投稿日期：
+项目列出了根据**中国计算机学会**和**中国人工智能学会**推荐的AI会议的截止投稿日期：
 1. [查询页面](https://www.aihomecaring.com/?conference/)
 2. 展示说明
 ![ai-conference-dealines-demo.png](assets%2Fai-conference-dealines-demo.png)

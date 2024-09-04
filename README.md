@@ -1,16 +1,14 @@
 # ai-conference-deadlines
-中国计算机协会和中国人工智能协会推荐人工智能想会议的截止投稿日期：
+项目列出了根据**中国计算机协会**和**中国人工智能协会**推荐的AI会议的截止投稿日期：
 1. [查询页面](https://www.aihomecaring.com/?conference/)
 2. 展示说明
 ![ai-conference-dealines-demo.png](assets%2Fai-conference-dealines-demo.png)
 
 ## 贡献会议信息
 
-非常欢迎贡献会议信息！
+**非常欢迎贡献会议信息！** 如果没有看到你感兴趣的子领域或会议，欢迎维护一个独立的分支。
 
-项目列出了根据**中国计算机协会**和**中国人工智能协会**推荐的AI会议。如果你没有看到你感兴趣的子领域或会议，欢迎维护一个独立的分支。
-
-要添加或更新截止日期：
+添加或更新会议截止日期的步骤如下：
 
 - Fork（克隆）该仓库
 - 更新 data/conferences.yml
